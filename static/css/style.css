@@ -1,0 +1,32 @@
+body {
+	background-color: #F5603F;
+}
+
+h1 {
+	text-align:center;
+	font-size:50px;
+	font-family: "Courier";
+	color:black;
+}
+
+p {
+	text-align:center;
+	font-size:25px;
+	font-family: "Courier";
+	color:white;
+}
+
+.button {
+    background-color: white;
+    border: none;
+    padding: 15px 32px;
+    margin-left:45%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button a {
+	text-decoration: none;
+}
